@@ -14,7 +14,7 @@ public static void main (String[] args)
     Scanner keyboard = new Scanner(System.in);
     int numCases = keyboard.nextInt();
     
-    for (int i = 1; i <= numCases; i++)
+    for (int c = 1; c <= numCases; c++)
     {
         // solve the question!
     }
